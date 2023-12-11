@@ -3,16 +3,16 @@ Hi, there!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
-Total Time: 11 hrs 6 mins
+Total Time: 12 hrs 45 mins
 
-PHP          7 hrs 52 mins   >>>>>>>>>>>>>>>>>>-------   70.93 %
-Vue.js       2 hrs 33 mins   >>>>>>-------------------   23.05 %
-JavaScript   10 mins         -------------------------   01.63 %
-SVG          10 mins         -------------------------   01.52 %
-CSS          6 mins          -------------------------   00.91 %
-HTML         1 min           -------------------------   00.15 %
+PHP          10 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>>----   83.76 %
+Vue.js       1 hr 36 mins    >>>----------------------   12.63 %
+JavaScript   10 mins         -------------------------   01.34 %
+SVG          10 mins         -------------------------   01.32 %
+CSS          5 mins          -------------------------   00.78 %
+HTML         1 min           -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
