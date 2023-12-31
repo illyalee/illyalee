@@ -3,7 +3,7 @@ Hi, there!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
 Total Time: 2 hrs 40 mins
 
