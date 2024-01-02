@@ -3,15 +3,14 @@ Hi, there!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 2 hrs 40 mins
+Total Time: 1 hr 57 mins
 
-PHP              2 hrs 10 mins   >>>>>>>>>>>>>>>>>>>>-----   81.27 %
-CSV/TSV          12 mins         >>-----------------------   07.57 %
-Markdown         11 mins         >>-----------------------   07.06 %
-Text             0 secs          -------------------------   00.21 %
-GitIgnore file   0 secs          -------------------------   00.00 %
+PHP              1 hr 37 mins    >>>>>>>>>>>>>>>>>>>>>----   83.13 %
+CSV/TSV          12 mins         >>>----------------------   10.38 %
+Markdown         7 mins          >>-----------------------   06.49 %
+GitIgnore file   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
