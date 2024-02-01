@@ -3,13 +3,13 @@ Hi, there!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 29 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-Total Time: 2 hrs 40 mins
+Total Time: 11 hrs 4 mins
 
-CSS        1 hr 37 mins    >>>>>>>>>>>>>>>----------   60.82 %
-HTML       1 hr 2 mins     >>>>>>>>>>---------------   39.01 %
-Markdown   0 secs          -------------------------   00.16 %
+CSS        6 hrs 29 mins   >>>>>>>>>>>>>>>----------   58.56 %
+HTML       4 hrs 34 mins   >>>>>>>>>>---------------   41.36 %
+Markdown   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
